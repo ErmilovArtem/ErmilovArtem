@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
-    <img src="./assets/profile-header-light.svg" width="100%" alt="Artem Ermilov, Python backend engineer. Reliable services, data-heavy workflows, measurable performance.">
-  </picture>
+  <img src="./assets/python-interview.png" width="100%" alt="Hand-drawn Python interview comic: a candidate is asked how to sort a list, answers list.sort(), and receives a well done.">
 </p>
 
 <p align="center">
@@ -11,12 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/artermilov">Telegram</a> ·
-  <a href="https://leetcode.com/u/aermilov756/">LeetCode</a> ·
-  <a href="https://hh.ru/resume/810cb277ff0e0498aa0039ed1f723675564375">Resume</a>
+  <a href="https://t.me/artermilov"><img src="https://img.shields.io/badge/Contact_me-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact me on Telegram"></a>
+  <a href="https://hh.ru/resume/810cb277ff0e0498aa0039ed1f723675564375"><img src="https://img.shields.io/badge/View_my-Resume-EA1C24?style=for-the-badge" alt="View my resume on HeadHunter"></a>
+  <a href="https://leetcode.com/u/aermilov756/"><img src="https://img.shields.io/badge/Solve_with_me-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View my LeetCode profile"></a>
 </p>
 
-Python backend engineer based in Moscow
+Python backend engineer based in Moscow. I build reliable, data-intensive services, integrations, asynchronous workflows, and automation. Most of my production work lives in private repositories.
 
 ### Stack
 
@@ -34,4 +30,4 @@ Python backend engineer based in Moscow
 - Think in systems, communicate clearly, admit mistakes, and help teammates.
 - Learn quickly, share knowledge, and automate repetitive work.
 
-**Open to Python backend roles — remote or hybrid in Moscow.** [Let's talk on Telegram](https://t.me/artermilov).
+**Open to Python backend roles — remote or hybrid in Moscow.**
