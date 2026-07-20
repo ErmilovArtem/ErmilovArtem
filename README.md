@@ -16,18 +16,22 @@
   <a href="https://hh.ru/resume/810cb277ff0e0498aa0039ed1f723675564375">Resume</a>
 </p>
 
-I am a Python backend engineer based in Moscow. I build data-intensive services for public-sector workflows at [CBIAS](https://www.cbias.ru/) and previously worked on integrations and automation at [Fortech](https://fortech.dev/).
+Python backend engineer based in Moscow
 
-I like backend work where correctness, throughput, and recovery all matter: reliable imports, asynchronous processing, clear service boundaries, and SQL that remains predictable under load.
+### Stack
 
-### What I care about
+**Backend & applied ML:** Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Pydantic, REST API, asyncio, threading, multiprocessing, concurrent.futures, Celery, NLP
 
-- Failure states designed up front: idempotency, safe retries, explicit state, and recovery without data loss.
-- Performance backed by evidence: profiles, query plans, indexes, batching, and measurements before and after.
-- Delivery that stays boring: tests around critical paths, automated pipelines, containers, and observable services.
+**Data & messaging:** PostgreSQL, MySQL, MongoDB, Redis, SQL, Kafka, RabbitMQ
 
-`Python` · `FastAPI` · `Django / DRF` · `PostgreSQL` · `SQLAlchemy` · `Kafka` · `Celery` · `Redis` · `Docker` · `Kubernetes`
+**Infrastructure & delivery:** Docker, Docker Compose, Kubernetes, Linux, Nginx, Git, GitLab, GitLab CI/CD, Alembic
 
-Most of my production code lives in private repositories. Here I publish focused experiments and reusable backend ideas. Outside the request path, I occasionally assist with programming labs, join hackathons, practice on [LeetCode](https://leetcode.com/u/aermilov756/), and learn piano.
+**Quality & teamwork:** pytest, unit testing, integration testing, Selenium, code review, Agile, Jira, Confluence
+
+### How I work
+
+- Take ownership of difficult tasks and follow through on commitments.
+- Think in systems, communicate clearly, admit mistakes, and help teammates.
+- Learn quickly, share knowledge, and automate repetitive work.
 
 **Open to Python backend roles — remote or hybrid in Moscow.** [Let's talk on Telegram](https://t.me/artermilov).
