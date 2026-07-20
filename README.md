@@ -30,7 +30,7 @@ Python backend engineer based in Moscow. I build reliable, data-intensive servic
 - Think in systems, communicate clearly, admit mistakes, and help teammates.
 - Learn quickly, share knowledge, and automate repetitive work.
 
-**Open to Python backend roles — remote or hybrid in Moscow.**
+**Open to Python backend roles — remote or hybrid.**
 
 
 <br>
