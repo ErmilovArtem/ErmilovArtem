@@ -31,3 +31,12 @@ Python backend engineer based in Moscow. I build reliable, data-intensive servic
 - Learn quickly, share knowledge, and automate repetitive work.
 
 **Open to Python backend roles — remote or hybrid in Moscow.**
+
+
+<br>
+
+<p align="center">
+  <a href="https://t.me/artermilov">
+    <img src="https://img.shields.io/badge/LET'S_TALK-OPEN_TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="52" alt="Contact Artem Ermilov on Telegram">
+  </a>
+</p>
